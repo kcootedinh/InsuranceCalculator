@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceCalculator.ConsoleApp", "src\InsuranceCalculator.ConsoleApp\InsuranceCalculator.ConsoleApp.csproj", "{C0A0F2BB-750A-4D07-9B45-AED9263EDCEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsuranceCalculator.UnitTests", "tests\InsuranceCalculator.UnitTests\InsuranceCalculator.UnitTests.csproj", "{7C0D4184-D955-4EE9-892C-5C79C020D75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0A0F2BB-750A-4D07-9B45-AED9263EDCEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A0F2BB-750A-4D07-9B45-AED9263EDCEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A0F2BB-750A-4D07-9B45-AED9263EDCEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A0F2BB-750A-4D07-9B45-AED9263EDCEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0D4184-D955-4EE9-892C-5C79C020D75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0D4184-D955-4EE9-892C-5C79C020D75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0D4184-D955-4EE9-892C-5C79C020D75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0D4184-D955-4EE9-892C-5C79C020D75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
